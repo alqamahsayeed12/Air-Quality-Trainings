@@ -1,6 +1,6 @@
 # Air-Quality-Trainings
 
-**These Modules are developed as part of Training in Guatemala for NASA - SERVIR**
+**These Modules were developed as part of Training in Guatemala for NASA - SERVIR**
 
 This is a collection designed to provide training resources, materials, and code related to air quality. The repository is organized into modules, each addressing different aspects or topics within air quality education and analysis. This modular structure allows for focused learning and development in each branch, supporting both foundational and advanced topics in air quality studies.
 
