@@ -15,3 +15,6 @@ This repository contains the following six branches:
 - **Module-4** This notebook analyzes and visualizes atmospheric composition data from the Copernicus Atmosphere Monitoring Service (CAMS) ECMWF Atmospheric Composition Reanalysis 4 dataset.
 - **Module-5** This notebook compares the PM2.5 data from the EPA and GEOS-FP model for several cities.
 
+
+[![DOI](https://zenodo.org/badge/1050509195.svg)](https://doi.org/10.5281/zenodo.17057961)
+
