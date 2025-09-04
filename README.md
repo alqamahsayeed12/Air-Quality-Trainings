@@ -4,7 +4,7 @@
 
 **Updates: Alqamah Sayeed (UAH)**
 
-This notebook analyzes and visualizes atmospheric composition data from the Copernicus Atmosphere Monitoring Service (CAMS) ECMWF Atmospheric Composition Reanalysis 4 (EAC4) dataset.
+This notebook analyzes and visualizes atmospheric composition data from the Copernicus Atmosphere Monitoring Service (CAMS) ECMWF Atmospheric Composition Reanalysis 4 dataset.
 
 The notebook performs the following steps:
 
