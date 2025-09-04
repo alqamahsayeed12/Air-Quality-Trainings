@@ -1,6 +1,4 @@
-# Air-Quality-Trainings - Module 01
-
-# Ground Monitors by EPA
+# Air-Quality-Trainings - Module 01: Ground Monitors by EPA
 
 ## Summary
 
