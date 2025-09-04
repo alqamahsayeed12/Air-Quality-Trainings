@@ -1,7 +1,7 @@
 # Air-Quality-Trainings - Module 04: CAMS Visualization
 
-# Author: Shima Shams (NCAR)
-# Updates: Alqamah Sayeed (UAH)
+**Author: Shima Shams (NCAR)
+Updates: Alqamah Sayeed (UAH)**
 
 This notebook analyzes and visualizes atmospheric composition data from the Copernicus Atmosphere Monitoring Service (CAMS) ECMWF Atmospheric Composition Reanalysis 4 (EAC4) dataset.
 
